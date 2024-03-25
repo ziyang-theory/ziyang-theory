@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ziyang
 - 👀 I’m interested in theoretical computer science
-- 🌱 I’m currently working on research problems related to the probablistic method, combinatorics, and graph theory
-- 💞️ I’m looking to collaborate on anything that is interesting
+- 🌱 I’m currently working on research problems related to cryptography and probabilistic combinatorics
+- 💞️ I’m looking to collaborate on any research problem that is interesting
 - 📫 How to reach me https://www.cs.toronto.edu/~ziyang/
 
 <!---
